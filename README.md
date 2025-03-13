@@ -1,4 +1,8 @@
-# Hi, I'm Matthew!
+# big things coming soon
+
+
+<!--
+
 👨🏽‍💻 Aspiring Software Engineer passionate about using tech to solve real-world problems <br/>
 
 <br>🎓 Freshman Computer Science Major at The Pennsylvania State University, with a minor in Cybersecurity <br/>
@@ -7,7 +11,7 @@
 
 <br>📊 Currently exploring data science, AI, and building impactful community projects <br/><br>
 
-<!--
+
 **mattothomas/mattothomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
